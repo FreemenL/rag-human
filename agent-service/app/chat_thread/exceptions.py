@@ -1,0 +1,3 @@
+
+class ChatThreadNotFound(LookupError):
+    pass
